@@ -30,11 +30,11 @@ body{
     margin-right:30px;
 }
 
-.jumbotron img.showcase-img{
+.jumbotron .showcase-img{
     width:75%;
 }
 
-.demo{
+img.demo{
     width:100%;
     padding:3px;
     border:1px solid #ccc;
